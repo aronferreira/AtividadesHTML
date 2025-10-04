@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+h2   {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding: 0;
+}
+
+ol {
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    width: fit-content;
+    margin: auto;
+    list-style-position: outside;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}

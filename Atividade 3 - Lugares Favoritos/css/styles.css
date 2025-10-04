@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+h2   {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    width: 650px;
+    margin: auto;
+    padding: 10px;
+}
+
+a {
+    display: block;
+    padding: 0px 0px 10px 0px
+}
+
+ul {
+    text-align: center;
+    padding: 0px;
+}
+
+ul img {
+    width: 50%;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
